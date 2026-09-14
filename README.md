@@ -1,6 +1,6 @@
 # SBerp v2 (spring-breeze-erp-v2)
 
-> Team Spring Breeze의 전사적 자원 관리(ERP) 시스템 — 2차 프로젝트
+> Spring Breeze 팀의 전사적 자원 관리(ERP) 시스템 — 2차 프로젝트
 > 1차 프로젝트(JSP · MySQL)를 Spring Boot · Thymeleaf · Oracle 18c · AI/API 기반으로 리팩토링 및 고도화
 
 > 📌 **이 저장소는 4인 팀 프로젝트를 포트폴리오 아카이빙 목적으로 개인 저장소에 옮겨온 것입니다.**
@@ -129,15 +129,25 @@
 ## 📸 스크린샷
 
 **1. AI 결재 양식 생성**
-![AI 양식 생성](./docs/screenshots/appr-form-ai.png)
+
+<p align="center"><img src="./docs/screenshots/appr-form-ai.png" width="600" alt="AI 양식 생성"/></p>
+
 관리자가 원하는 양식을 문장으로 설명하면 GPT JSON mode로 구조화된 필드를 생성하는 화면입니다.
 
+<br>
+
 **2. 동적 스키마 렌더링**
-![동적 스키마 렌더링](./docs/screenshots/appr-form-render.png)
+
+<p align="center"><img src="./docs/screenshots/appr-form-render.png" width="600" alt="동적 스키마 렌더링"/></p>
+
 생성된 스키마를 텍스트 · 날짜 · 셀렉트 입력 폼으로 실시간 렌더링한 결과 화면입니다.
 
+<br>
+
 **3. 결재선 순차 승인 처리**
-![순차 승인](./docs/screenshots/appr-line-sequential.png)
+
+<p align="center"><img src="./docs/screenshots/appr-line-sequential.png" width="600" alt="순차 승인"/></p>
+
 직급 순서 기반으로 자동 필터링된 결재선을 따라 순차적으로 승인이 처리되는 화면입니다.
 
 <!-- TODO: docs/screenshots/ 폴더에 이미지 3개 업로드, 파일명 맞추기 (GIF로 대체해도 좋음) -->
