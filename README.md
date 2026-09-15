@@ -138,7 +138,7 @@
 
 **2. 동적 스키마 렌더링**
 
-<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-render.png" width="600" alt="동적 스키마 렌더링"/></p>
+<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-render1.png" width="600" alt="동적 스키마 렌더링"/></p>
 
 생성된 스키마를 텍스트 · 날짜 · 셀렉트 입력 폼으로 실시간 렌더링한 결과 화면입니다.
 
