@@ -129,33 +129,44 @@
 ## 📸 스크린샷
 
 **1. AI 결재 양식 생성**
- 
+
 <p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-ai.gif" width="600" alt="AI 양식 생성"/></p>
+
 관리자가 원하는 양식을 문장으로 설명하면 GPT JSON mode로 구조화된 필드를 생성하는 화면입니다.
- 
+
 <br>
+
 **2. 동적 스키마 렌더링**
- 
+
 <p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-render.png" width="600" alt="동적 스키마 렌더링"/></p>
+
 생성된 스키마를 텍스트 · 날짜 · 셀렉트 입력 폼으로 실시간 렌더링한 결과 화면입니다.
- 
+
 <br>
+
 **3. 결재선 순차 승인 처리**
- 
+
 <p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-line-sequential.gif" width="600" alt="순차 승인"/></p>
+
 직급 순서 기반으로 자동 필터링된 결재선을 따라 순차적으로 승인이 처리되는 화면입니다.
- 
+
 <br>
+
 **4. 양식 버전 관리**
- 
+
 <p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-version.png" width="600" alt="양식 버전 관리"/></p>
+
 양식을 수정하면 기존 버전을 소프트 삭제(`is_deleted`) 처리하고 새 버전(`for_version`)을 생성해, 과거에 제출된 문서는 그 시점의 양식 그대로 보존됩니다.
- 
+
 <br>
+
 **5. 결재 문서함**
- 
+
 <p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-doc-list.png" width="600" alt="결재 문서함"/></p>
+
 기안했거나 결재해야 할 문서를 상태별로 조회하는 목록 화면입니다.
+
+<!-- TODO: docs/screenshots/ 폴더에 이미지 5개 업로드, 파일명 맞추기 (GIF로 대체해도 좋음) -->
 
 <br>
 
