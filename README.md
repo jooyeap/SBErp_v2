@@ -154,7 +154,7 @@
 
 **4. 양식 버전 관리**
 
-<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-version.png" width="600" alt="양식 버전 관리"/></p>
+<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-form-version.gif" width="600" alt="양식 버전 관리"/></p>
 
 양식을 수정하면 기존 버전을 소프트 삭제(`is_deleted`) 처리하고 새 버전(`for_version`)을 생성해, 과거에 제출된 문서는 그 시점의 양식 그대로 보존됩니다.
 
@@ -162,7 +162,7 @@
 
 **5. 결재 문서함**
 
-<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-doc-list.png" width="600" alt="결재 문서함"/></p>
+<p align="center"><img src="./spring-breeze-erp-v2/docs/screenshots/appr-doc-list.gif" width="600" alt="결재 문서함"/></p>
 
 기안했거나 결재해야 할 문서를 상태별로 조회하는 목록 화면입니다.
 
