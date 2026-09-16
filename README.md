@@ -210,4 +210,4 @@
 |---|---|
 | v1 (초기 구현) | [SBErp_v1](https://github.com/jooyeap/SBErp_v1) |
 | v3 (Next.js + AI, 현재) | [SBErp_v3](https://github.com/jooyeap/SBErp_v3) |
-| 전체 이력 | [github.com/jooyeap](https://github.com/jooyeap) |
+| 프로필 | [github.com/jooyeap](https://github.com/jooyeap) |
